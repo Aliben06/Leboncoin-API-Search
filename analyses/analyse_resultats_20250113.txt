@@ -1,0 +1,683 @@
+=== ANALYSE DU MARCHÉ AUTOMOBILE ===
+
+STATISTIQUES GÉNÉRALES:
+Nombre total d'annonces: 9751
+Prix moyen: 20819.06€
+Prix médian: 18490.00€
+Kilométrage moyen: 74264km
+
+PRIX MOYEN PAR MARQUE:
+                prix       kilometrage
+                mean count        mean
+marque                                
+Abarth      28025.56     9    27798.89
+Aixam        9661.62    21    25741.90
+Alfa Romeo  23744.89    45    74946.38
+Alpine      61650.00     3    23694.00
+Audi        33012.11   483    68290.13
+Austin      13666.67     3    37333.33
+Autres      25930.98    50    16945.60
+Bentley     27900.00     1   110000.00
+Bmw         25631.38   417   113884.41
+Cadillac    38500.00     1    47264.00
+Chatenet    13793.33     6     2215.33
+Chevrolet   12535.71     7    94732.57
+Citroen     14550.54  1181    76606.06
+Corvette    30388.00     5    97396.00
+Cupra       37511.68    62    16219.69
+Dacia       14019.67   139    65431.09
+Daihatsu     5745.00     2   147000.00
+Dodge       34996.67     3   130674.33
+Ds          24864.18   275    60846.93
+Fiat        14058.11   240    61850.67
+Ford        18574.28   337    86096.73
+Honda       21997.19    37    67228.14
+Hummer      35990.00     1   143500.00
+Hyundai     23813.01   151    46309.51
+Infiniti    13682.50     4   108425.00
+Isuzu       37790.00     2     1755.00
+Jaguar      33651.12    17    88437.35
+Jeep        27087.59    56    61132.05
+Kia         21048.79   160    56348.89
+Lancia       6490.00     1    64950.00
+Land Rover  35798.08    59   104159.17
+Lexus       34278.72    47    37241.70
+Ligier      11645.00     6    27065.83
+Lotus       25000.00     1    54200.00
+Maserati    52590.00     5    79003.20
+Mazda       27038.48    48    53052.04
+Mega        11600.00     1     9400.00
+Mercedes    35040.80   429    74127.97
+Microcar     7998.43     7    25870.57
+Mini        17542.66   158    91242.49
+Mitsubishi  27870.40    25    30385.52
+Nissan      16022.71   173    85205.38
+Opel        14060.47   311    77413.54
+Peugeot     17043.05  1932    78102.85
+Pontiac      8000.00     1   153000.00
+Porsche     46676.15    39   125295.64
+Renault     13924.03   921    95418.53
+Rover       12615.00     4    66656.50
+Saab        10000.00     2   159500.00
+Santana      5900.00     1   160000.00
+Seat        18017.84   122    68280.39
+Simpa JDM    6000.00     1    27787.00
+Skoda       23964.78   153    49679.93
+Smart       10336.67     6   143325.33
+Ssangyong    6130.00     3   176322.33
+Subaru      29700.00     1    49000.00
+Suzuki      17716.21    77    39858.95
+Tesla       31979.09    22    59771.77
+Toyota      24983.95   541    41675.92
+Tvr         39990.00     1    70000.00
+Volkswagen  24679.24   815    69723.38
+Volvo       36553.51   120    70165.52
+
+STATISTIQUES PAR TYPE DE VENDEUR:
+                  prix                kilometrage
+                  mean   median count        mean
+vendeur_type                                     
+private       11500.64   8400.0  1663   145985.45
+pro           22735.05  19990.0  8088    59516.92
+
+TOP 100 DES MEILLEURES AFFAIRES:
+
+Bmw Serie 5 (1997)
+Prix: 750€ | Kilométrage: 288800km
+Vendeur: private | Ville: Arzano
+URL: https://www.leboncoin.fr/ad/voitures/2910508722
+--------------------------------------------------------------------------------
+
+Renault Scenic (2007)
+Prix: 600€ | Kilométrage: 273000km
+Vendeur: private | Ville: Pléchâtel
+URL: https://www.leboncoin.fr/ad/voitures/2917932838
+--------------------------------------------------------------------------------
+
+Peugeot 206 (2000)
+Prix: 700€ | Kilométrage: 266000km
+Vendeur: private | Ville: Vitré
+URL: https://www.leboncoin.fr/ad/voitures/2917381879
+--------------------------------------------------------------------------------
+
+Fiat Ulysse (1999)
+Prix: 800€ | Kilométrage: 290000km
+Vendeur: private | Ville: Châteaulin
+URL: https://www.leboncoin.fr/ad/voitures/2917531296
+--------------------------------------------------------------------------------
+
+Ford Mondeo (1997)
+Prix: 600€ | Kilométrage: 175000km
+Vendeur: private | Ville: Lanester
+URL: https://www.leboncoin.fr/ad/voitures/2766968113
+--------------------------------------------------------------------------------
+
+Renault Scenic (2006)
+Prix: 700€ | Kilométrage: 290000km
+Vendeur: private | Ville: Chanteloup
+URL: https://www.leboncoin.fr/ad/voitures/2917266973
+--------------------------------------------------------------------------------
+
+Renault Autres (2005)
+Prix: 750€ | Kilométrage: 280000km
+Vendeur: private | Ville: Caulnes
+URL: https://www.leboncoin.fr/ad/voitures/2917733380
+--------------------------------------------------------------------------------
+
+Renault Clio (2001)
+Prix: 800€ | Kilométrage: 263400km
+Vendeur: private | Ville: Brest
+URL: https://www.leboncoin.fr/ad/voitures/2917863420
+--------------------------------------------------------------------------------
+
+Ford Focus (2008)
+Prix: 700€ | Kilométrage: 246000km
+Vendeur: private | Ville: Cléguer
+URL: https://www.leboncoin.fr/ad/voitures/2917341233
+--------------------------------------------------------------------------------
+
+Citroen C8 (2004)
+Prix: 830€ | Kilométrage: 270000km
+Vendeur: private | Ville: Quimper
+URL: https://www.leboncoin.fr/ad/voitures/2917936630
+--------------------------------------------------------------------------------
+
+Renault Autres (2006)
+Prix: 800€ | Kilométrage: 259000km
+Vendeur: private | Ville: Le Mené
+URL: https://www.leboncoin.fr/ad/voitures/2917167854
+--------------------------------------------------------------------------------
+
+Renault Autres (2007)
+Prix: 800€ | Kilométrage: 255000km
+Vendeur: private | Ville: Vitré
+URL: https://www.leboncoin.fr/ad/voitures/2917560218
+--------------------------------------------------------------------------------
+
+Seat Cordoba (1999)
+Prix: 1000€ | Kilométrage: 268147km
+Vendeur: private | Ville: Bégard
+URL: https://www.leboncoin.fr/ad/voitures/2844133022
+--------------------------------------------------------------------------------
+
+Opel Zafira (2004)
+Prix: 1000€ | Kilométrage: 298000km
+Vendeur: private | Ville: Lamballe-Armor
+URL: https://www.leboncoin.fr/ad/voitures/2917939469
+--------------------------------------------------------------------------------
+
+Renault Megane (2009)
+Prix: 800€ | Kilométrage: 254000km
+Vendeur: private | Ville: Ergué-Gabéric
+URL: https://www.leboncoin.fr/ad/voitures/2917481244
+--------------------------------------------------------------------------------
+
+Peugeot 307 (2003)
+Prix: 950€ | Kilométrage: 232000km
+Vendeur: private | Ville: Rennes
+URL: https://www.leboncoin.fr/ad/voitures/2917535633
+--------------------------------------------------------------------------------
+
+Smart Forfour (2004)
+Prix: 900€ | Kilométrage: 214000km
+Vendeur: private | Ville: Vitré
+URL: https://www.leboncoin.fr/ad/voitures/2918228601
+--------------------------------------------------------------------------------
+
+Smart Forfour (2004)
+Prix: 900€ | Kilométrage: 214000km
+Vendeur: private | Ville: Vitré
+URL: https://www.leboncoin.fr/ad/voitures/2917787565
+--------------------------------------------------------------------------------
+
+Dacia Logan (2007)
+Prix: 900€ | Kilométrage: 235274km
+Vendeur: private | Ville: Plestan
+URL: https://www.leboncoin.fr/ad/voitures/2918194401
+--------------------------------------------------------------------------------
+
+Renault Twingo (2003)
+Prix: 800€ | Kilométrage: 165000km
+Vendeur: private | Ville: Lorient
+URL: https://www.leboncoin.fr/ad/voitures/2917312947
+--------------------------------------------------------------------------------
+
+Citroen C5 (2002)
+Prix: 990€ | Kilométrage: 221500km
+Vendeur: private | Ville: Plerneuf
+URL: https://www.leboncoin.fr/ad/voitures/2917736011
+--------------------------------------------------------------------------------
+
+Renault Scenic (2003)
+Prix: 1000€ | Kilométrage: 220000km
+Vendeur: private | Ville: Saint-Connan
+URL: https://www.leboncoin.fr/ad/voitures/2917170936
+--------------------------------------------------------------------------------
+
+Renault Scenic (2007)
+Prix: 1000€ | Kilométrage: 260000km
+Vendeur: private | Ville: Plonévez-Porzay
+URL: https://www.leboncoin.fr/ad/voitures/2917118573
+--------------------------------------------------------------------------------
+
+Fiat Punto (2003)
+Prix: 1200€ | Kilométrage: 285500km
+Vendeur: private | Ville: Vitré
+URL: https://www.leboncoin.fr/ad/voitures/2917308307
+--------------------------------------------------------------------------------
+
+Citroen C8 (2008)
+Prix: 1000€ | Kilométrage: 260000km
+Vendeur: private | Ville: Montreuil-le-Gast
+URL: https://www.leboncoin.fr/ad/voitures/2917487011
+--------------------------------------------------------------------------------
+
+Renault Megane (2003)
+Prix: 800€ | Kilométrage: 145000km
+Vendeur: private | Ville: Caudan
+URL: https://www.leboncoin.fr/ad/voitures/2917060836
+--------------------------------------------------------------------------------
+
+Opel Zafira (2005)
+Prix: 1100€ | Kilométrage: 260000km
+Vendeur: private | Ville: Monterblanc
+URL: https://www.leboncoin.fr/ad/voitures/2917492138
+--------------------------------------------------------------------------------
+
+Peugeot 307 (2003)
+Prix: 1200€ | Kilométrage: 280000km
+Vendeur: private | Ville: Morlaix
+URL: https://www.leboncoin.fr/ad/voitures/2918185215
+--------------------------------------------------------------------------------
+
+Peugeot 407 (2005)
+Prix: 1100€ | Kilométrage: 256836km
+Vendeur: private | Ville: Les Fougerêts
+URL: https://www.leboncoin.fr/ad/voitures/2917911673
+--------------------------------------------------------------------------------
+
+Renault Autres (2008)
+Prix: 1000€ | Kilométrage: 250000km
+Vendeur: private | Ville: Quimper
+URL: https://www.leboncoin.fr/ad/voitures/2917791345
+--------------------------------------------------------------------------------
+
+Mercedes Classe A (2005)
+Prix: 1000€ | Kilométrage: 207000km
+Vendeur: private | Ville: Ploudalmézeau
+URL: https://www.leboncoin.fr/ad/voitures/2917186639
+--------------------------------------------------------------------------------
+
+Opel Meriva (2007)
+Prix: 1000€ | Kilométrage: 224996km
+Vendeur: private | Ville: Plounéour-Brignogan-plages
+URL: https://www.leboncoin.fr/ad/voitures/2917109668
+--------------------------------------------------------------------------------
+
+Ford Focus (2001)
+Prix: 1200€ | Kilométrage: 240000km
+Vendeur: private | Ville: Le Rheu
+URL: https://www.leboncoin.fr/ad/voitures/2917977644
+--------------------------------------------------------------------------------
+
+Renault Clio (1997)
+Prix: 700€ | Kilométrage: 102660km
+Vendeur: private | Ville: Louvigné-du-Désert
+URL: https://www.leboncoin.fr/ad/voitures/2918076478
+--------------------------------------------------------------------------------
+
+Nissan Micra (2005)
+Prix: 1000€ | Kilométrage: 192500km
+Vendeur: private | Ville: Saint-Avé
+URL: https://www.leboncoin.fr/ad/voitures/2918193786
+--------------------------------------------------------------------------------
+
+Ford Focus (2003)
+Prix: 1000€ | Kilométrage: 180000km
+Vendeur: private | Ville: Morlaix
+URL: https://www.leboncoin.fr/ad/voitures/2918006413
+--------------------------------------------------------------------------------
+
+Seat Cordoba (1999)
+Prix: 1300€ | Kilométrage: 246000km
+Vendeur: private | Ville: Quéven
+URL: https://www.leboncoin.fr/ad/voitures/2917317016
+--------------------------------------------------------------------------------
+
+Peugeot 206 (2004)
+Prix: 990€ | Kilométrage: 180000km
+Vendeur: private | Ville: Ambon
+URL: https://www.leboncoin.fr/ad/voitures/2918093097
+--------------------------------------------------------------------------------
+
+Renault Clio (2001)
+Prix: 1200€ | Kilométrage: 220000km
+Vendeur: private | Ville: Quimper
+URL: https://www.leboncoin.fr/ad/voitures/2917280698
+--------------------------------------------------------------------------------
+
+Renault Twingo (2009)
+Prix: 1000€ | Kilométrage: 220000km
+Vendeur: private | Ville: Rennes
+URL: https://www.leboncoin.fr/ad/voitures/2917850558
+--------------------------------------------------------------------------------
+
+Nissan Primera (2005)
+Prix: 1200€ | Kilométrage: 250000km
+Vendeur: private | Ville: Rennes
+URL: https://www.leboncoin.fr/ad/voitures/2846044661
+--------------------------------------------------------------------------------
+
+Peugeot 206 (2000)
+Prix: 1200€ | Kilométrage: 211300km
+Vendeur: private | Ville: Névez
+URL: https://www.leboncoin.fr/ad/voitures/2917974478
+--------------------------------------------------------------------------------
+
+Ford Focus (2004)
+Prix: 1300€ | Kilométrage: 270000km
+Vendeur: private | Ville: La Chapelle-Thouarault
+URL: https://www.leboncoin.fr/ad/voitures/2917244989
+--------------------------------------------------------------------------------
+
+Peugeot 107 (2005)
+Prix: 1350€ | Kilométrage: 299740km
+Vendeur: private | Ville: Brest
+URL: https://www.leboncoin.fr/ad/voitures/2917904475
+--------------------------------------------------------------------------------
+
+Peugeot 206 (2000)
+Prix: 1200€ | Kilométrage: 200000km
+Vendeur: private | Ville: Plélan-le-Grand
+URL: https://www.leboncoin.fr/ad/voitures/2917118674
+--------------------------------------------------------------------------------
+
+Peugeot 307 (2004)
+Prix: 1300€ | Kilométrage: 258701km
+Vendeur: private | Ville: Saint-Malo
+URL: https://www.leboncoin.fr/ad/voitures/2917121509
+--------------------------------------------------------------------------------
+
+Renault Clio (2008)
+Prix: 1200€ | Kilométrage: 275000km
+Vendeur: private | Ville: Le Cloître-Pleyben
+URL: https://www.leboncoin.fr/ad/voitures/2917896522
+--------------------------------------------------------------------------------
+
+Ford Focus (2003)
+Prix: 1400€ | Kilométrage: 280000km
+Vendeur: private | Ville: La Guerche-de-Bretagne
+URL: https://www.leboncoin.fr/ad/voitures/2917962990
+--------------------------------------------------------------------------------
+
+Peugeot 206 (2003)
+Prix: 1300€ | Kilométrage: 240000km
+Vendeur: private | Ville: Ploemeur
+URL: https://www.leboncoin.fr/ad/voitures/2917569045
+--------------------------------------------------------------------------------
+
+Peugeot 307 (2004)
+Prix: 1200€ | Kilométrage: 216000km
+Vendeur: private | Ville: Landerneau
+URL: https://www.leboncoin.fr/ad/voitures/2917510723
+--------------------------------------------------------------------------------
+
+Fiat Panda (1993)
+Prix: 800€ | Kilométrage: 100000km
+Vendeur: private | Ville: Quimper
+URL: https://www.leboncoin.fr/ad/voitures/2917098396
+--------------------------------------------------------------------------------
+
+Renault Laguna (1995)
+Prix: 1200€ | Kilométrage: 172330km
+Vendeur: private | Ville: Amanlis
+URL: https://www.leboncoin.fr/ad/voitures/2917806209
+--------------------------------------------------------------------------------
+
+Ford Focus (2009)
+Prix: 1000€ | Kilométrage: 185000km
+Vendeur: private | Ville: Brest
+URL: https://www.leboncoin.fr/ad/voitures/2918133372
+--------------------------------------------------------------------------------
+
+Jeep Cherokee (1986)
+Prix: 1900€ | Kilométrage: 291000km
+Vendeur: private | Ville: Guégon
+URL: https://www.leboncoin.fr/ad/voitures/2836593993
+--------------------------------------------------------------------------------
+
+Renault Espace (2002)
+Prix: 1300€ | Kilométrage: 215000km
+Vendeur: private | Ville: Rennes
+URL: https://www.leboncoin.fr/ad/voitures/2917265734
+--------------------------------------------------------------------------------
+
+Renault Kangoo (1999)
+Prix: 1500€ | Kilométrage: 250000km
+Vendeur: private | Ville: Morlaix
+URL: https://www.leboncoin.fr/ad/voitures/2917931735
+--------------------------------------------------------------------------------
+
+Citroen C5 (2005)
+Prix: 1400€ | Kilométrage: 270000km
+Vendeur: private | Ville: Lorient
+URL: https://www.leboncoin.fr/ad/voitures/2917998146
+--------------------------------------------------------------------------------
+
+Renault Clio (2003)
+Prix: 1490€ | Kilométrage: 273713km
+Vendeur: private | Ville: Morlaix
+URL: https://www.leboncoin.fr/ad/voitures/2917954125
+--------------------------------------------------------------------------------
+
+Peugeot 307 (2003)
+Prix: 1500€ | Kilométrage: 270000km
+Vendeur: private | Ville: Le Mené
+URL: https://www.leboncoin.fr/ad/voitures/2918145804
+--------------------------------------------------------------------------------
+
+Peugeot 307 (2007)
+Prix: 1200€ | Kilométrage: 206000km
+Vendeur: private | Ville: Rennes
+URL: https://www.leboncoin.fr/ad/voitures/2918089206
+--------------------------------------------------------------------------------
+
+Citroen C3 (2003)
+Prix: 1500€ | Kilométrage: 258000km
+Vendeur: private | Ville: Bourgbarré
+URL: https://www.leboncoin.fr/ad/voitures/2917657426
+--------------------------------------------------------------------------------
+
+Renault Clio (2002)
+Prix: 1500€ | Kilométrage: 245000km
+Vendeur: private | Ville: Quimper
+URL: https://www.leboncoin.fr/ad/voitures/2917295438
+--------------------------------------------------------------------------------
+
+Mazda 6 (2002)
+Prix: 1550€ | Kilométrage: 256000km
+Vendeur: private | Ville: Brest
+URL: https://www.leboncoin.fr/ad/voitures/2917504960
+--------------------------------------------------------------------------------
+
+Peugeot 206 (2000)
+Prix: 1600€ | Kilométrage: 251000km
+Vendeur: private | Ville: Saint-Brieuc
+URL: https://www.leboncoin.fr/ad/voitures/2917145310
+--------------------------------------------------------------------------------
+
+Ford Galaxy (2005)
+Prix: 1500€ | Kilométrage: 267000km
+Vendeur: private | Ville: Fougères
+URL: https://www.leboncoin.fr/ad/voitures/2917957058
+--------------------------------------------------------------------------------
+
+Renault Clio (2001)
+Prix: 1500€ | Kilométrage: 227000km
+Vendeur: private | Ville: Saint-Allouestre
+URL: https://www.leboncoin.fr/ad/voitures/2917752500
+--------------------------------------------------------------------------------
+
+Toyota Yaris (2001)
+Prix: 1750€ | Kilométrage: 296571km
+Vendeur: private | Ville: La Baussaine
+URL: https://www.leboncoin.fr/ad/voitures/2917504830
+--------------------------------------------------------------------------------
+
+Peugeot 407 (2008)
+Prix: 1200€ | Kilométrage: 198000km
+Vendeur: private | Ville: Rennes
+URL: https://www.leboncoin.fr/ad/voitures/2917273514
+--------------------------------------------------------------------------------
+
+Renault Clio (2000)
+Prix: 1650€ | Kilométrage: 249000km
+Vendeur: private | Ville: Morlaix
+URL: https://www.leboncoin.fr/ad/voitures/2917642730
+--------------------------------------------------------------------------------
+
+Renault Twingo (2009)
+Prix: 1300€ | Kilométrage: 223500km
+Vendeur: private | Ville: Plouguin
+URL: https://www.leboncoin.fr/ad/voitures/2918093620
+--------------------------------------------------------------------------------
+
+Fiat Doblo (2006)
+Prix: 1650€ | Kilométrage: 290000km
+Vendeur: private | Ville: Brest
+URL: https://www.leboncoin.fr/ad/voitures/2917833018
+--------------------------------------------------------------------------------
+
+Fiat Grande Punto (2006)
+Prix: 1500€ | Kilométrage: 240000km
+Vendeur: private | Ville: Ploemeur
+URL: https://www.leboncoin.fr/ad/voitures/2917276315
+--------------------------------------------------------------------------------
+
+Jaguar Daimler (1998)
+Prix: 1500€ | Kilométrage: 185000km
+Vendeur: private | Ville: Paimpol
+URL: https://www.leboncoin.fr/ad/voitures/2918156108
+--------------------------------------------------------------------------------
+
+Alfa Romeo 147 (2008)
+Prix: 1500€ | Kilométrage: 250000km
+Vendeur: private | Ville: Vannes
+URL: https://www.leboncoin.fr/ad/voitures/2917456302
+--------------------------------------------------------------------------------
+
+Peugeot 206 (2000)
+Prix: 2000€ | Kilométrage: 290000km
+Vendeur: private | Ville: Allaire
+URL: https://www.leboncoin.fr/ad/voitures/2918079156
+--------------------------------------------------------------------------------
+
+Renault Megane (2004)
+Prix: 1850€ | Kilométrage: 292500km
+Vendeur: private | Ville: Pléchâtel
+URL: https://www.leboncoin.fr/ad/voitures/2917314946
+--------------------------------------------------------------------------------
+
+Renault Megane (1997)
+Prix: 1500€ | Kilométrage: 170000km
+Vendeur: private | Ville: Saint-Brieuc
+URL: https://www.leboncoin.fr/ad/voitures/2918130068
+--------------------------------------------------------------------------------
+
+Ford Galaxy (2003)
+Prix: 1800€ | Kilométrage: 245000km
+Vendeur: private | Ville: Martigné-Ferchaud
+URL: https://www.leboncoin.fr/ad/voitures/2917194690
+--------------------------------------------------------------------------------
+
+Bmw Serie 3 (2003)
+Prix: 1500€ | Kilométrage: 180000km
+Vendeur: private | Ville: Saint-Brieuc
+URL: https://www.leboncoin.fr/ad/voitures/2917772847
+--------------------------------------------------------------------------------
+
+Renault Twingo (2008)
+Prix: 1500€ | Kilométrage: 218000km
+Vendeur: private | Ville: Redon
+URL: https://www.leboncoin.fr/ad/voitures/2918122980
+--------------------------------------------------------------------------------
+
+Renault Megane (1999)
+Prix: 1800€ | Kilométrage: 213416km
+Vendeur: private | Ville: Plourivo
+URL: https://www.leboncoin.fr/ad/voitures/2917148160
+--------------------------------------------------------------------------------
+
+Alfa Romeo 156 (2002)
+Prix: 2000€ | Kilométrage: 278000km
+Vendeur: private | Ville: Sixt-sur-Aff
+URL: https://www.leboncoin.fr/ad/voitures/2918213632
+--------------------------------------------------------------------------------
+
+Bmw Serie 1 (2006)
+Prix: 1800€ | Kilométrage: 272500km
+Vendeur: private | Ville: Dourdain
+URL: https://www.leboncoin.fr/ad/voitures/2917678481
+--------------------------------------------------------------------------------
+
+Mercedes Classe A (2004)
+Prix: 1750€ | Kilométrage: 230000km
+Vendeur: private | Ville: Plouhinec
+URL: https://www.leboncoin.fr/ad/voitures/2917942254
+--------------------------------------------------------------------------------
+
+Nissan Autres (1989)
+Prix: 2500€ | Kilométrage: 286000km
+Vendeur: private | Ville: Concarneau
+URL: https://www.leboncoin.fr/ad/voitures/2917316116
+--------------------------------------------------------------------------------
+
+Citroen C4 (2010)
+Prix: 1600€ | Kilométrage: 266000km
+Vendeur: private | Ville: Brest
+URL: https://www.leboncoin.fr/ad/voitures/2917022686
+--------------------------------------------------------------------------------
+
+Peugeot 206 (2004)
+Prix: 2000€ | Kilométrage: 286000km
+Vendeur: private | Ville: Dourdain
+URL: https://www.leboncoin.fr/ad/voitures/2917933309
+--------------------------------------------------------------------------------
+
+Citroen C4 (2009)
+Prix: 1600€ | Kilométrage: 244000km
+Vendeur: private | Ville: Langueux
+URL: https://www.leboncoin.fr/ad/voitures/2918175825
+--------------------------------------------------------------------------------
+
+Opel Astra (2007)
+Prix: 1850€ | Kilométrage: 286100km
+Vendeur: private | Ville: Saint-Jacques-de-la-Lande
+URL: https://www.leboncoin.fr/ad/voitures/2918196454
+--------------------------------------------------------------------------------
+
+Seat Ibiza (2011)
+Prix: 1300€ | Kilométrage: 180000km
+Vendeur: private | Ville: Rennes
+URL: https://www.leboncoin.fr/ad/voitures/2917997592
+--------------------------------------------------------------------------------
+
+Peugeot 307 (2005)
+Prix: 2000€ | Kilométrage: 291000km
+Vendeur: private | Ville: Coësmes
+URL: https://www.leboncoin.fr/ad/voitures/2917278408
+--------------------------------------------------------------------------------
+
+Peugeot Partner (2003)
+Prix: 2100€ | Kilométrage: 288000km
+Vendeur: private | Ville: Quimper
+URL: https://www.leboncoin.fr/ad/voitures/2918058734
+--------------------------------------------------------------------------------
+
+Citroen C5 (2006)
+Prix: 2000€ | Kilométrage: 296000km
+Vendeur: private | Ville: Pleine-Fougères
+URL: https://www.leboncoin.fr/ad/voitures/2917313977
+--------------------------------------------------------------------------------
+
+Citroen C4 Picasso (2007)
+Prix: 1900€ | Kilométrage: 280000km
+Vendeur: private | Ville: Rennes
+URL: https://www.leboncoin.fr/ad/voitures/2882266183
+--------------------------------------------------------------------------------
+
+Renault Laguna (2004)
+Prix: 1800€ | Kilométrage: 216000km
+Vendeur: private | Ville: Plédran
+URL: https://www.leboncoin.fr/ad/voitures/2917886255
+--------------------------------------------------------------------------------
+
+Peugeot 307 (2003)
+Prix: 2200€ | Kilométrage: 294000km
+Vendeur: private | Ville: Rennes
+URL: https://www.leboncoin.fr/ad/voitures/2917707803
+--------------------------------------------------------------------------------
+
+Peugeot 308 (2008)
+Prix: 1900€ | Kilométrage: 290000km
+Vendeur: private | Ville: Rennes
+URL: https://www.leboncoin.fr/ad/voitures/2917783091
+--------------------------------------------------------------------------------
+
+Citroen Autres (2001)
+Prix: 2200€ | Kilométrage: 269000km
+Vendeur: private | Ville: Quimper
+URL: https://www.leboncoin.fr/ad/voitures/2918110550
+--------------------------------------------------------------------------------
+
+Renault Clio (2005)
+Prix: 2000€ | Kilométrage: 265000km
+Vendeur: private | Ville: Thorigné-Fouillard
+URL: https://www.leboncoin.fr/ad/voitures/2918176131
+--------------------------------------------------------------------------------
+
+Citroen C3 (2003)
+Prix: 2000€ | Kilométrage: 238000km
+Vendeur: private | Ville: Rennes
+URL: https://www.leboncoin.fr/ad/voitures/2917693191
+--------------------------------------------------------------------------------
