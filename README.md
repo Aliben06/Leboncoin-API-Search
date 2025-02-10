@@ -83,36 +83,61 @@ Les paramètres de recherche peuvent être modifiés directement dans les script
 
 ```json
 {
-  "total_annonces": 120,
-  "annonces_pro": 45,
-  "annonces_particulier": 75,
-  "date_extraction": "2024-02-10T12:00:00Z",
-  "annonces": [
-    {
-      "id": "123456789",
-      "titre": "Renault Clio 2020",
-      "prix": 12000,
-      "date_publication": "2024-02-09",
+      "id": 2927781128,
+      "titre": "Renault Mégane 3 1,5 dci 110 Bt 6",
+      "prix": 5990,
+      "date_publication": "2025-01-29 22:06:01",
       "caracteristiques": {
         "marque": "Renault",
-        "modele": "Clio",
-        "annee": "2020",
-        "kilometrage": "45000",
-        "carburant": "Essence",
-        "boite": "Manuelle"
+        "modele": "Megane",
+        "annee": "2014",
+        "kilometrage": "200000",
+        "carburant": "Diesel",
+        "boite": "Manuelle",
+        "place": "5",
+        "etat": "Non endommagé",
+        "horse_power_din": "110 Ch"
       },
       "vendeur": {
-        "type": "particulier",
-        "nom": "Jean Dupont"
+        "type": "pro",
+        "nom": "SLYME AUTOS",
+        "pro": true
       },
       "localisation": {
-        "ville": "Paris",
-        "code_postal": "75001"
+        "ville": "Firminy",
+        "code_postal": "42700",
+        "departement": "Loire"
       },
-      "url": "https://www.leboncoin.fr/annonce/123456789"
-    }
-  ]
-}
+      "images": [
+        "https://img.leboncoin.fr/api/v1/lbcpb1/images/8f/7a/9f/8f7a9f281dc87c6d5b45418acc08b4a3fae4b114.jpg?rule=ad-image",
+        "https://img.leboncoin.fr/api/v1/lbcpb1/images/bf/74/b1/bf74b15f838cdeb921e107e70f746b03f539e286.jpg?rule=ad-image",
+        "https://img.leboncoin.fr/api/v1/lbcpb1/images/58/0e/05/580e05e8e365d288217a81ba53c093804fb041d0.jpg?rule=ad-image",
+        "https://img.leboncoin.fr/api/v1/lbcpb1/images/88/10/0c/88100cf123e4067ba7827ee29342a49d74176967.jpg?rule=ad-image",
+        "https://img.leboncoin.fr/api/v1/lbcpb1/images/24/25/6c/24256ce12dd35cc5149895d8827ced2ba559fef1.jpg?rule=ad-image"
+      ],
+      "url": "https://www.leboncoin.fr/ad/voitures/2927781128",
+      "description": "Renault Mégane 3 1,5 dci 110 ch \nBoîte 6\nKms : 200000\nAnnée : 2014\n\n5 portes, 5 places,\n\nEquipements Confort :\n• Allumage automatique des feux\n• Auto-radio commandé au volant\n• Détecteur de pluie\n• Ordinateur de bord\n• Régulateur de vitesse\n• Vitres éléctriques\n•cd \n•, Bluetooth\n• Détecteur \n• GPS \n• Direction assistée\n\nEquipements sécurité :\n• ABS\n• Phares antibrouillard\n\nAutres équipements et informations :\n• Limiteur de vitesse\n\nVéhicule révisé et garantie \nKit de distribution neuf \ncontrôle technique ok moins de 6 mois\n\n• la voiture propre intérieur extérieur et moteur il y a rien à prévoir\n\nReprise de votre ancien vehicule possible .\n\nInformation complémentaire :\nnous somme agréé et habilité pour s’occuper de vous établir votre carte grise\n\nHoraire d’ouverture :\nDu lundi au samedi \n- matin sur RDV\n-après  midi : 14 h à 19 h\n\nGarage Slymes Autos \n39 rue de la république \n42700 Firminy"
+    },
+
+{
+      "id": 2934267660,
+      "titre": "IPhone 12",
+      "prix": 100,
+      "date_publication": "2025-02-10 13:50:42",
+      "caracteristiques": {},
+      "vendeur": {
+        "type": "private",
+        "nom": "Fedhy",
+        "pro": false
+      },
+      "localisation": {
+        "ville": "Aulnay-sous-Bois",
+        "code_postal": "93600",
+        "departement": "Seine-Saint-Denis"
+      },
+      "url": "https://www.leboncoin.fr/ad/telephones_objets_connectes/2934267660",
+      "description": "À vendre dans l’état problème sont qui ne détecte des fois pas la Sim ainsi que la caméra arrière qui n’est pas très nette à des moment le reste aucun problème le prix est fixe"
+    },
 ```
 
 ### CSV (`resume_YYYY-MM-DD_Keyword_LocationV2.csv`)
@@ -131,7 +156,7 @@ ID,Titre,Date Publication,Prix,Marque,Modele,Etat,Couleur,Stockage,Mémoire,Type
 ## 🔗 Ressources
 
 - Dépôt du projet : [GitHub Repository](https://github.com/Aliben06/Leboncoin-API-Search)
-- Documentation API : [leboncoin-api-search](https://github.com/Aliben06/Leboncoin-API-Search/documentation-API.txt) *(non officielle)*
+- Documentation API : [leboncoin-api-search](https://github.com/Aliben06/Leboncoin-API-Search/documentation-API.md) *(non officielle)*
 
 ---
 
