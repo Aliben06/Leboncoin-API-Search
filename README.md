@@ -156,7 +156,7 @@ ID,Titre,Date Publication,Prix,Marque,Modele,Etat,Couleur,Stockage,Mémoire,Type
 ## 🔗 Ressources
 
 - Dépôt du projet : [GitHub Repository](https://github.com/Aliben06/Leboncoin-API-Search)
-- Documentation API : [leboncoin-api-search](https://github.com/Aliben06/Leboncoin-API-Search/documentation-API.md) *(non officielle)*
+- Documentation API : [leboncoin-api-search](https://github.com/Aliben06/Leboncoin-API-Search/blob/main/documentation-API.md) *(non officielle)*
 
 ---
 
